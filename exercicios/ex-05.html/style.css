@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    background-color: dodgerblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: powderblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:lime
+}
+
+h2 {
+    background-color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    color: maroon;
+}
+
+h3 {
+    background-color: rgb(245, 179, 220);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 128, 38);
+}
+
+h4 {
+    background-color: rgb(231, 245, 179);
+    font-family: fantasy;
+    color: rgb(148, 8, 129);
+}
+
+p {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+}
