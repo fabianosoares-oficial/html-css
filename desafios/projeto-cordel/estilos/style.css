@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(255, 248, 239);
+}
+
+header {
+    background-color: rgb(230, 132, 62);
+    padding: 10px;
+    margin: -10px -10px 0px -10px;
+    color: white;
+}
+
+#art01 {
+    background-color: white;
+    padding: 20px;
+    margin: 0px -10px;
+}
+
+#art02 {
+background-image: ;
+}
+
+#art03 {
+
+}
+
+#art04 {
+
+}
+
+#art05 {
+
+}
