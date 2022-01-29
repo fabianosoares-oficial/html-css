@@ -18,6 +18,15 @@ body {
     background-color: rgb(255, 248, 239);
 }
 
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+   
+}
+
+
+
 main p {
     font-family: 'Hubby', sans-serif;
     font-weight: lighter;
