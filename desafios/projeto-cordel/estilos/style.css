@@ -38,12 +38,12 @@ main p {
 
 .p1 {
     background-color: rgba(0, 0, 0, 0.473);
-    width: 80%;
+   display: inline-block;
 }
 
 .p2 {
     background-color: rgba(0, 0, 0, 0.473);
-    width: 80%;
+    display: inline-block;
 }
 
 header {
@@ -86,6 +86,7 @@ header > p {
     background-image: url('../imagens/pexels-uğurcan-özmen-8090819.jpg');
     padding: 20px;
     color: white;
+    
 }
 
 #art03 {
